@@ -1,0 +1,17 @@
+/* header{
+    background-image: url('../../images/bg4.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+} */
+
+.home-container{
+    background-image: url('../../images/bg3.jpg');
+    height: 100vh;
+}
+
+.bg-home{
+    background-color: #ce6e0dc4;
+    height: 100vh;
+}
+
